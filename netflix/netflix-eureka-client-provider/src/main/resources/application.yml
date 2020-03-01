@@ -2,11 +2,16 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
-#  instance:
-#    statusPageUrlPath: ${server.servletPath}/info
-#    healthCheckUrlPath: ${server.servletPath}/health
 spring:
   application:
     name: provider  ## 应用程序名称，后面会在消费者中用到
 server:
   port: 8000
+management:
+  endpoint:
+    shutdown:
+      enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: "*"   # * 在yaml 文件属于关键字，所以需要加引号
