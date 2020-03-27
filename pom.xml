@@ -18,6 +18,7 @@
         <module>config</module>
         <module>netflix</module>
         <module>rest-service</module>
+        <module>reactive-rest-service</module>
     </modules>
 
     <dependencies>
