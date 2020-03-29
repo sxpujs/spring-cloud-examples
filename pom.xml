@@ -21,6 +21,8 @@
         <module>reactive-rest-service</module>
         <module>rest-service-cors</module>
         <module>relational-data-access</module>
+        <module>managing-transactions</module>
+        <module>accessing-data-mysql</module>
     </modules>
 
     <dependencies>
