@@ -20,6 +20,7 @@
         <module>rest-service</module>
         <module>reactive-rest-service</module>
         <module>rest-service-cors</module>
+        <module>relational-data-access</module>
     </modules>
 
     <dependencies>
