@@ -23,6 +23,7 @@
         <module>relational-data-access</module>
         <module>managing-transactions</module>
         <module>accessing-data-mysql</module>
+        <module>cache-demo</module>
     </modules>
 
     <dependencies>
