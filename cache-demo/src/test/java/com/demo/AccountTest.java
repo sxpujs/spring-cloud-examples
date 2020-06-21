@@ -1,6 +1,5 @@
 package com.demo;
 
-import com.demo.Application;
 import com.demo.service.AccountService;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
