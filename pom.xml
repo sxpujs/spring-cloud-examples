@@ -24,6 +24,7 @@
         <module>managing-transactions</module>
         <module>accessing-data-mysql</module>
         <module>cache-demo</module>
+        <module>graphql</module>
     </modules>
 
     <dependencies>
