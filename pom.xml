@@ -26,6 +26,7 @@
         <module>cache-demo</module>
         <module>graphql</module>
         <module>graphql-tools5</module>
+        <module>graphql-tools6</module>
     </modules>
 
     <dependencies>
