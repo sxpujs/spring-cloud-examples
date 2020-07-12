@@ -1,12 +1,12 @@
-package com.graphql.bookdetails;
+package com.graphql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BookDetailsApplication {
+public class GraphqlApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BookDetailsApplication.class, args);
+        SpringApplication.run(GraphqlApplication.class, args);
     }
 }

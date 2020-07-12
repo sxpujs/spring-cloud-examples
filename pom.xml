@@ -25,6 +25,7 @@
         <module>accessing-data-mysql</module>
         <module>cache-demo</module>
         <module>graphql</module>
+        <module>graphql-tools5</module>
     </modules>
 
     <dependencies>
