@@ -1,6 +1,7 @@
 HELP.md
 **/target/
 **/log/
+**/.gradle
 
 ### IntelliJ IDEA ###
 .idea
