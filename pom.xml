@@ -27,6 +27,7 @@
         <module>graphql</module>
         <module>graphql-tools5</module>
         <module>graphql-tools6</module>
+        <module>grpc-demo</module>
     </modules>
 
     <dependencies>
